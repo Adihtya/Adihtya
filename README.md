@@ -31,7 +31,7 @@
       <br/>
       <h3>🛠️ Tech & Tools</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,js,nodejs,git,github,bash,vscode&theme=dark" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" alt="Tech Stack" />
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -45,4 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adihtya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adihtya&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
