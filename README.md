@@ -15,14 +15,6 @@
 -📫 Reach me via email: invictableaditya@gmail.com
 - 📫 Reach me via LinkedIn: **[Aditya Chaudhari](https://www.linkedin.com/in/adihtya)**
 
-<br>
-
-<h3 align="left">💼 Professional Experience</h3>
-
-- **Software Development Engineer** @ *upGrad School of Technology* (Jul 2026 - Present)
-- **Software Development Engineer** @ *Newton School of Technology* (Jul 2025 - Jun 2026)
-- **SDE Intern** @ *Newton School of Technology* (Jan 2025 - Jun 2025)
-- **MTS Intern** @ *GeeksforGeeks* (Dec 2024 - May 2025)
 
 <br>
 
