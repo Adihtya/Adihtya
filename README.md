@@ -3,7 +3,7 @@
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/qHj-j_56PRjVxVNJgh0iHa8v7sakWmGW_bsoYERjeT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/dmluaW5qci9kMjli/YjA3YmRhZGI0MWU0/YjA5MjNiYzhmYTc0/OGIxYS9yYXcvODhm/MjBjOWQ3NDlkNzU2/YmU2M2YyMmIwOWYz/YzRhYzU3MGJjNTEw/MS9wcm9ncmFtbWlu/Zy5naWY.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhitya&label=Profile%20views&color=0e75b6&style=flat" alt="adhitya" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adhitya&label=Profile%20views&color=0e75b6&style=flat](https://imgs.search.brave.com/fGuzESh3m9Dd1_r8ev6t65CMp163ZTVXG372HMfgRlU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI2L2Iz/LzA4LzI2YjMwODBj/NjBjMDc5MDJkMGFk/ZjZjYWYyZDY3MWI0/LmpwZw)" alt="adhitya" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/adhitya" target="blank"><img src="https://img.shields.io/twitter/follow/adhitya?logo=twitter&style=for-the-badge" alt="adhitya" /></a> </p>
