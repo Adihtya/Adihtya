@@ -3,7 +3,7 @@
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
 <img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA3NzczNTgsIm5iZiI6MTc5MDc3NzA1OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTMwVDE0MDQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5NDdkZmFiNDNiMDFjNzE4N2I1NWZmYjAzNTQ3YjFmNjNlZTU2YWU5NzZlNzI2YWE1NDRhMWE0OWJhZGIxOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lvQIMId3PVSnTw-a3CiGEBJXC3EhZ04e-Hnt3OGt-Jg">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adhitya&label=Profile%20views&color=0e75b6&style=flat](https://imgs.search.brave.com/fGuzESh3m9Dd1_r8ev6t65CMp163ZTVXG372HMfgRlU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI2L2Iz/LzA4LzI2YjMwODBj/NjBjMDc5MDJkMGFk/ZjZjYWYyZDY3MWI0/LmpwZw)" alt="adhitya" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/adhitya" target="blank"><img src="https://img.shields.io/twitter/follow/adhitya?logo=twitter&style=for-the-badge" alt="adhitya" /></a> </p>
