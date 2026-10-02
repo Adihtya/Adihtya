@@ -45,21 +45,23 @@
   <img src="https://ghchart.rshah.org/Adihtya" alt="Aditya's GitHub Contributions Chart" />
 </p>
 
-<h3 align="left">🏆 Competitive Programming Activity & Streaks:</h3>
+<h3 align="left">🏆 Competitive Programming Stats:</h3>
 
-<!-- Codeforces Activity & Heatmap -->
 <p align="center">
-  <b>Codeforces Activity Graph & Streaks</b><br>
-  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=Adihtya&theme=tokyonight" alt="Codeforces Activity Heatmap" />
+  <!-- Verified Codeforces Card -->
+  <a href="https://codeforces.com/profile/Adihtya" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Card" />
+  </a>
 </p>
 
-<!-- CodeChef Rating & Stats Card -->
 <p align="center">
-  <b>CodeChef Stats</b><br>
-  <img src="https://codechef-api.vercel.app/handle/adihtya18" alt="CodeChef Stats Card" />
+  <!-- Codeforces Live Dynamic Badges -->
+  <a href="https://codeforces.com/profile/Adihtya" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Adihtya-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Handle" />
+  </a>
+  <!-- CodeChef Live Rating Badge -->
+  <a href="https://www.codechef.com/users/adihtya18" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-adihtya18-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Handle" />
+  </a>
 </p>
 
-<!-- Combined Competitive Programming Streaks & Solved Summary -->
-<p align="center">
-  <img src="https://cp-activity-card.vercel.app/api?username=Adihtya&platform=codeforces&theme=tokyonight" alt="Codeforces Streak and Solved" />
-</p>
