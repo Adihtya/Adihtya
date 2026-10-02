@@ -51,11 +51,18 @@
     <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Stats" />
   </a>
   <a href="https://leetcode.com/u/Adihtya18/" target="_blank">
-    <img height="200" src="https://leetcard.jacoblin.cool/Adihtya18?theme=tokyonight&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+    <img height="200" src="https://leetcard.jacoblin.cool/Adihtya18?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.codechef.com/users/adihtya18" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header&text=CodeChef%20:%20adihtya18&fontSize=24&fontColor=70a5fd&animation=fadeIn" alt="CodeChef Profile Card" />
+    <img src="https://img.shields.io/badge/CodeChef-adihtya18-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="https://codeforces.com/profile/Adihtya" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Adihtya-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="https://leetcode.com/u/Adihtya18/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Adihtya18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
