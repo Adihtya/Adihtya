@@ -50,7 +50,7 @@
   <a href="https://codeforces.com/profile/Adihtya" target="_blank">
     <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Stats" />
   </a>
-  <a href="https://leetcode.com/u/Adihtya18/" target="_blank">
-    <img height="200" src="https://leetcard.jacoblin.cool/Adihtya18?theme=tokyonight&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+  <a href="https://codechef.com/u/adihtya18/" target="_blank">
+    <img height="200" src="https://leetcard.jacoblin.cool/Adihtya18?theme=tokyonight&font=Baloo%202&ext=activity" alt="Codechef Stats" />
   </a>
 </p>
