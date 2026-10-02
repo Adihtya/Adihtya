@@ -45,13 +45,21 @@
   <img src="https://ghchart.rshah.org/Adihtya" alt="Aditya's GitHub Contributions Chart" />
 </p>
 
-<h3 align="left">🏆 Competitive Programming Stats:</h3>
+<h3 align="left">🏆 Competitive Programming Activity & Streaks:</h3>
 
+<!-- Codeforces Activity & Heatmap -->
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Stats" />
+  <b>Codeforces Activity Graph & Streaks</b><br>
+  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=Adihtya&theme=tokyonight" alt="Codeforces Activity Heatmap" />
 </p>
 
+<!-- CodeChef Rating & Stats Card -->
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/card?username=adihtya18&theme=tokyonight" alt="CodeChef Stats" />
+  <b>CodeChef Stats</b><br>
+  <img src="https://codechef-api.vercel.app/handle/adihtya18" alt="CodeChef Stats Card" />
 </p>
 
+<!-- Combined Competitive Programming Streaks & Solved Summary -->
+<p align="center">
+  <img src="https://cp-activity-card.vercel.app/api?username=Adihtya&platform=codeforces&theme=tokyonight" alt="Codeforces Streak and Solved" />
+</p>
