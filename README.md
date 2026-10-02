@@ -44,3 +44,14 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/Adihtya" alt="Aditya's GitHub Contributions Chart" />
 </p>
+
+<h3 align="left">🏆 Competitive Programming Stats:</h3>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Stats" />
+</p>
+
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=adihtya18&theme=tokyonight" alt="CodeChef Stats" />
+</p>
+
