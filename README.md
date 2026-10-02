@@ -56,6 +56,6 @@
 </p>
 <p align="center">
   <a href="https://www.codechef.com/users/adihtya18" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-adihtya18-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header&text=CodeChef%20:%20adihtya18&fontSize=24&fontColor=70a5fd&animation=fadeIn" alt="CodeChef Profile Card" />
   </a>
 </p>
