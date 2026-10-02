@@ -1,4 +1,3 @@
-
 ![MasterHead](https://imgs.search.brave.com/71moPvDjo2L9Ph6Ww2aFK6LER0TBRc8ho8GBlbRhp28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I0L2Uz/LzcxL2I0ZTM3MTYx/OTA0MmQxZTgwOTE4/ZDA5OTA0ZTkwZjdk/LmpwZw)
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
@@ -8,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/adhitya" target="blank"><img src="https://img.shields.io/twitter/follow/adhitya?logo=twitter&style=for-the-badge" alt="adhitya" /></a> </p>
 
 - 🔭 Currently building custom scripts and AI agent workflows.
--🧩 Passionate about algorithms & problem solving in Python.
--🛠️ Exploring scalable backend systems and API integrations.
--📫 Reach me via email: invictableaditya@gmail.com
+- 🧩 Passionate about algorithms & problem solving in Python.
+- 🛠️ Exploring scalable backend systems and API integrations.
+- 📫 Reach me via email: invictableaditya@gmail.com
 - 📫 Reach me via LinkedIn: **[Aditya Chaudhari](https://www.linkedin.com/in/adihtya)**
 
 
@@ -31,6 +30,17 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="[http](https://www.python.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">📊 GitHub Stats & Streaks:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/YOUR_GITHUB_USERNAME" alt="Aditya's GitHub Contributions Chart" />
+</p>
