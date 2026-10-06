@@ -1,4 +1,8 @@
-![MasterHead](https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif)
+<p align="center">
+  <img src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif" alt="MasterHead" />
+</p>
+
+
 
 
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
