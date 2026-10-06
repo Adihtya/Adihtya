@@ -41,9 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adihtya&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adihtya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/Adihtya" alt="Aditya's GitHub Contributions Chart" />
-</p>
 
 <h3 align="left">🏆 Competitive Programming Stats:</h3>
 <p align="center">
