@@ -45,7 +45,7 @@
 <h3 align="left">🏆 Competitive Programming Stats:</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/Adihtya" target="_blank">
-    <img height="190" src="assets/codeforces-card.svg" alt="Codeforces Stats" />
+    <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya" alt="Codeforces Stats" />
   </a>
 </p>
 
