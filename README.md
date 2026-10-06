@@ -35,7 +35,7 @@
 
 <h3 align="left">📊 GitHub Stats & Streaks:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adihtya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Adihtya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adihtya&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -45,7 +45,7 @@
 <h3 align="left">🏆 Competitive Programming Stats:</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/Adihtya" target="_blank">
-    <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=tokyonight" alt="Codeforces Stats" />
+    <img height="190" src="assets/codeforces-card.svg" alt="Codeforces Stats" />
   </a>
 </p>
 
