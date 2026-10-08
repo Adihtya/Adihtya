@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif" alt="MasterHead" />
+  <img src="[https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif" alt="MasterHead](https://imgs.search.brave.com/U7sdMLAOCKS3K9WxKE-_UzMOV8R_iaPdityGPg4fXK0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M1Lzlh/L2QyL2M1OWFkMmJk/NGFkMmZiYWNkMDQw/MTdkZWJjNjc5ZGRi/LmpwZw)" />
 </p>
 
 
@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
-<img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA3NzczNTgsIm5iZiI6MTc5MDc3NzA1OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTMwVDE0MDQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5NDdkZmFiNDNiMDFjNzE4N2I1NWZmYjAzNTQ3YjFmNjNlZTU2YWU5NzZlNzI2YWE1NDRhMWE0OWJhZGIxOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lvQIMId3PVSnTw-a3CiGEBJXC3EhZ04e-Hnt3OGt-Jg">
+<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif">
 
 
 <p align="left"> <a href="https://twitter.com/adhitya" target="blank"><img src="https://img.shields.io/twitter/follow/adhitya?logo=twitter&style=for-the-badge" alt="adhitya" /></a> </p>
