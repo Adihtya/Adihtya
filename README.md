@@ -1,9 +1,6 @@
 <p align="center">
-  <img 
-src="[https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif](https://imgs.search.brave.com/U_a-GXxlf0-WwfLBRwsWcZidttSgQl8FXTkW_Pf8qCs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/YXJ0b29uLWNoYXJh/Y3Rlci1sb3Vpc2Ut/YmVsY2hlci1jb2Rp/bmctaXMtZnVuLWN0/bWtjY2l1YzFneXhv/czIuZ2lm.gif)]" 
-    alt="MasterHead](https://imgs.search.brave.com/U7sdMLAOCKS3K9WxKE-_UzMOV8R_iaPdityGPg4fXK0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M1Lzlh/L2QyL2M1OWFkMmJk/NGFkMmZiYWNkMDQw/MTdkZWJjNjc5ZGRi/LmpwZw)" />
+  <img src="https://imgs.search.brave.com/71moPvDjo2L9Ph6Ww2aFK6LER0TBRc8ho8GBlbRhp28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I0L2Uz/LzcxL2I0ZTM3MTYx/OTA0MmQxZTgwOTE4/ZDA5OTA0ZTkwZjdk/LmpwZw" alt="MasterHead" />
 </p>
-
 
 
 
