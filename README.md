@@ -58,7 +58,7 @@
 </p>
 
 <h2 align="center" style="margin-top: 0px;">
-  <a href="https://github.com/VasHexad" target="_blank" style="color: #d8b4fe; text-decoration: none;">VasHexad 🧠⚛️</a>
+  <a href="https://github.com/VasHexad" target="_blank" style="color: #d8b4fe; text-decoration: none;">VasHexad  🧠⚛️</a>
 </h2>
 
 <p align="center">
