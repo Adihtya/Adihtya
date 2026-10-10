@@ -36,16 +36,16 @@
   </tr>
 </table>
 
+<h3 align="left">📫 Let's Connect:</h3>
 <p align="left">
-  📫 <b>Let's Connect:</b>&nbsp;&nbsp;
-  <a href="mailto:invictableaditya@gmail.com" style="text-decoration: none;">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" width="16" height="16" style="vertical-align: middle;" alt="Email"/> invictableaditya@gmail.com
+  <a href="mailto:invictableaditya@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-invictableaditya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adihtya" target="_blank" style="text-decoration: none;">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="16" height="16" style="vertical-align: middle;" alt="LinkedIn"/> LinkedIn
+  <a href="https://www.linkedin.com/in/adihtya" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Aditya_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 <br>
 
@@ -77,28 +77,37 @@
 </p>
 
 <br>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="20" width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <h3>🌐 Connect with me:</h3>
+        <br>
+        <p align="center">
+          <a href="https://x.com/adihtya0to1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://www.codechef.com/users/adihtya18" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons:codechef.svg?color=%235B4638" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://www.hackerrank.com/profile/invictableaditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://codeforces.com/profile/Adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://leetcode.com/u/Adihtya18/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+          <a href="https://www.geeksforgeeks.org/profile/invictabldes2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9" height="35" width="46" /></a>
+        </p>
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <h3>💻 Languages and Tools:</h3>
+        <br>
+        <p align="center"> 
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/> </a>&nbsp;&nbsp;
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="46" height="46"/> </a>&nbsp;&nbsp;
+          <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="46"/> </a>&nbsp;&nbsp;
+          <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="46" height="46"/> </a>&nbsp;&nbsp;
+          <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="46" height="46"/> </a> 
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://x.com/adihtya0to1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityachaudhari" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityachaudhari" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/adihtya18" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons:codechef.svg?color=%235B4638" alt="adityachaudhari" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/invictableaditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityachaudhari" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/Adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityachaudhari" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Adihtya18/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityachaudhari" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/invictabldes2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-</p>
 
 <br>
 
