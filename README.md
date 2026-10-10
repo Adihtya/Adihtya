@@ -1,6 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-
+<p align="center">
+  <img src="https://imgs.search.brave.com/71moPvDjo2L9Ph6Ww2aFK6LER0TBRc8ho8GBlbRhp28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I0L2Uz/LzcxL2I0ZTM3MTYx/OTA0MmQxZTgwOTE4/ZDA5OTA0ZTkwZjdk/LmpwZw" alt="MasterHead" />
+</p>
 <h1 align="center">Hello There 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif">
