@@ -14,30 +14,32 @@
   I am a first-year <b>B.Tech CS & AI</b> undergrad passionate about solving complex problems and exploring the intersections of deep tech. When I'm not grinding competitive programming problems in <b>Python and C++</b>, you can find me competing in hackathons or designing brand strategies!
 </p>
 
-<table width="100%" border="0" style="background-color: transparent;">
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="left">🌱 Currently Exploring:</h4>
-      <ul>
-        <li>Custom AI agent workflows & backend systems</li>
-        <li>Biological computing and neural simulations</li>
-        <li>Computer vision with OpenCV (building gesture controls!)</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4 align="left">⚡ Milestones & Roles:</h4>
-      <ul>
-        <li>🥈 2nd Place at ADYPU Ideathon</li>
-        <li>🥈 2nd Place at Upstart Workshop</li>
-        <li>💼 Social Media Strategist & Manager</li>
-        <li>🏆 ICPC Participant</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" style="background-color: transparent;">
+    <tr>
+      <td valign="top" align="center" width="50%">
+        <h4 align="center">🌱 Currently Exploring:</h4>
+        <ul style="display: inline-block; text-align: left;">
+          <li>Custom AI agent workflows & backend systems</li>
+          <li>Biological computing and neural simulations</li>
+          <li>Computer vision with OpenCV (building gesture controls!)</li>
+        </ul>
+      </td>
+      <td valign="top" align="center" width="50%">
+        <h4 align="center">⚡ Milestones & Roles:</h4>
+        <ul style="display: inline-block; text-align: left;">
+          <li>🥈 2nd Place at ADYPU Ideathon</li>
+          <li>🥈 2nd Place at Upstart Workshop</li>
+          <li>💼 Social Media Strategist & Manager</li>
+          <li>🏆 ICPC Participant</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">📫 Let's Connect:</h3>
-<p align="left">
+<h3 align="center">📫 Let's Connect:</h3>
+<p align="center">
   <a href="mailto:invictableaditya@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-invictableaditya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -45,6 +47,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-Aditya_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 <br>
