@@ -1,7 +1,9 @@
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Linus Torvalds contribution Space Shooter" />
+</p>
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm ADITYA CHAUDHARI</h1>
 
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif">
