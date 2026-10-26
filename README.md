@@ -28,8 +28,10 @@
       <td valign="top" align="center" width="50%">
         <h4 align="center">⚡ Milestones & Roles:</h4>
         <ul style="display: inline-block; text-align: left;">
-          <li>🥈 2nd Place at ADYPU Ideathon</li>
-          <li>🥈 2nd Place at Upstart Workshop</li>
+          <li>🥈 2nd Place @ ADYPU Ideathon (Team Soch4ard)</li>
+          <li>🥈 2nd Place @ Upstart Workshops 1 [TeamSkillBridge] </li>
+          <li>🥈 2nd Place @ Upstart Workshop 2 [Team Bombay Shaving Co.]</li>
+          <li>🌟 Finalist @ NST x Hacktoberfest</li>
           <li>💼 Social Media Strategist & Manager</li>
           <li>🏆 ICPC Participant</li>
         </ul>
@@ -47,8 +49,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-Aditya_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
 
 <br>
 
@@ -110,7 +110,6 @@
     </tr>
   </table>
 </div>
-
 
 <br>
 
