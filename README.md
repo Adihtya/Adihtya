@@ -92,8 +92,10 @@
         <p align="center">
           <a href="https://x.com/adihtya0to1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
           <a href="https://www.linkedin.com/in/adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://www.codechef.com/users/adihtya18" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons:codechef.svg?color=%235B4638" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://www.hackerrank.com/profile/invictableaditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
+        <a href="https://www.codechef.com/users/adihtya18" target="_blank" rel="noopener noreferrer" style="margin-right: 8px;">
+  <img src="https://api.iconify.design/simple-icons/codechef.svg?color=%235B4638" alt="Aditya Chaudhari on CodeChef" height="35" width="46" />
+</a>
+ <a href="https://www.hackerrank.com/profile/invictableaditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
           <a href="https://codeforces.com/profile/Adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
           <a href="https://leetcode.com/u/Adihtya18/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
           <a href="https://www.geeksforgeeks.org/profile/invictabldes2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9" height="35" width="46" /></a>
