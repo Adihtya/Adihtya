@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Linus Torvalds contribution Space Shooter" />
+<img src="[https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3](https://imgs.search.brave.com/71moPvDjo2L9Ph6Ww2aFK6LER0TBRc8ho8GBlbRhp28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I0L2Uz/LzcxL2I0ZTM3MTYx/OTA0MmQxZTgwOTE4/ZDA5OTA0ZTkwZjdk/LmpwZw)" alt="Binary Rain" />
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm ADITYA CHAUDHARI</h1>
