@@ -1,8 +1,31 @@
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3](https://imgs.search.brave.com/71moPvDjo2L9Ph6Ww2aFK6LER0TBRc8ho8GBlbRhp28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I0L2Uz/LzcxL2I0ZTM3MTYx/OTA0MmQxZTgwOTE4/ZDA5OTA0ZTkwZjdk/LmpwZw)" alt="Binary Rain" />
-</p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm ADITYA CHAUDHARI</h1>
+<!-- =============== ADITYA CHAUDHARI | SYSTEM ONLINE =============== -->
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=%3E+ADITYA+CHAUDHARI+_%3B%3E+CODE+THE+IMPOSSIBLE+_%3B%3E+BUILD+WHAT+DOESN%27T+EXIST+_%3B%3E+INNOVATE+BEYOND+LIMITS+_%3B%3E+THINK+DIFFERENT.+SHIP+FEARLESSLY."
+    alt="ADITYA CHAUDHARI | Code the Impossible | Build What Doesn't Exist | Innovate Beyond Limits"
+    width="100%"
+  />
+</h1>
+
+<p align="center">
+  <samp>
+    [ ENGINEERING THE FUTURE ] &nbsp; // &nbsp;
+    [ BREAKING THE ORDINARY ] &nbsp; // &nbsp;
+    [ BUILDING THE EXTRAORDINARY ]
+  </samp>
+</p>
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/heatmap?username=Adihtya&theme=github-dark&variant=space-shooter"
+    alt="Space Shooter Contribution Animation"
+    width="100%"
+  />
+</p>
+<!-- ======================== END HEADER ======================== -->
+
+
 
 
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
@@ -118,14 +141,37 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats & Streaks:</h3>
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">📊 GitHub Stats & Streaks</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adihtya&theme=merko&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Adihtya&theme=merko&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adihtya&show_icons=true&count_private=true&include_all_commits=true&theme=merko&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adihtya&layout=compact&theme=merko&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Adihtya&show_icons=true&theme=merko&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adihtya&layout=compact&theme=merko&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
+
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
+
+<!-- END GITHUB STATS -->
 
 <h3 align="center">🏆 Competitive Programming Stats:</h3>
 <p align="center">
