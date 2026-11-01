@@ -1,24 +1,4 @@
 
-<!-- =============== ADITYA | FIGHTER JET ANIMATION =============== -->
-
-<div align="center">
-
-  <img
-    src="./assets/aditya-jet.gif"
-    width="100%"
-    alt="ADITYA - F15 Fighter Jet Animation"
-  />
-
-  <br/>
-
-  <sub>
-    <b>ADITYA</b> // BUILT DIFFERENT. BUILT TO BREAK LIMITS.
-  </sub>
-
-</div>
-
-<!-- =============================================================== -->
-
 
 
 
