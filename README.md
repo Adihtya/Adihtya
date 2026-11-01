@@ -1,4 +1,40 @@
 
+<!-- =============== ADITYA // NEURAL AFTERDARK =============== -->
+
+<div align="center">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050510,35:180D35,70:432078,100:00D9FF&text=ADITYA&fontColor=FFFFFF&fontSize=95&fontAlignY=45&stroke=A855F7&strokeWidth=1&animation=fadeIn&desc=BEYOND%20THE%20KNOWN.&descSize=18&descAlignY=72&descColor=00D9FF"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=800&color=A855F7&center=true&vCenter=true&width=850&height=55&lines=CURIOUS+MIND.+RELENTLESS+BUILDER.;I+BUILD+WHAT+I+CAN'T+STOP+THINKING+ABOUT.;EXPLORING+AI+%7C+QUANTUM+%7C+SOFTWARE;THINK+BEYOND.+EXPERIMENT.+CREATE.;ALWAYS+LEARNING.+ALWAYS+EVOLVING."/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-A855F7?style=for-the-badge&labelColor=080713"/>
+<img src="https://img.shields.io/badge/QUANTUM-COMPUTING-00D9FF?style=for-the-badge&labelColor=080713"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-A855F7?style=for-the-badge&labelColor=080713"/>
+
+<br/><br/>
+
+<h3>
+  <i>"I BUILD WHAT I CAN'T STOP THINKING ABOUT."</i>
+</h3>
+
+<sub>
+  ENGINEERING STUDENT · EXPERIMENTER · FUTURE BUILDER
+</sub>
+
+<br/><br/>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,50:00D9FF,100:050510"/>
+
+</div>
+
+<!-- =========================================================== -->
+
 
 
 
