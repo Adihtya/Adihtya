@@ -1,29 +1,23 @@
 
-<!-- =============== ADITYA CHAUDHARI | SYSTEM ONLINE =============== -->
+<!-- =============== ADITYA | FIGHTER JET ANIMATION =============== -->
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=%3E+ADITYA+CHAUDHARI+_%3B%3E+CODE+THE+IMPOSSIBLE+_%3B%3E+BUILD+WHAT+DOESN%27T+EXIST+_%3B%3E+INNOVATE+BEYOND+LIMITS+_%3B%3E+THINK+DIFFERENT.+SHIP+FEARLESSLY."
-    alt="ADITYA CHAUDHARI | Code the Impossible | Build What Doesn't Exist | Innovate Beyond Limits"
-    width="100%"
-  />
-</h1>
+<div align="center">
 
-<p align="center">
-  <samp>
-    [ ENGINEERING THE FUTURE ] &nbsp; // &nbsp;
-    [ BREAKING THE ORDINARY ] &nbsp; // &nbsp;
-    [ BUILDING THE EXTRAORDINARY ]
-  </samp>
-</p>
-<p align="center">
   <img
-    src="https://www.gitskins.com/api/section/heatmap?username=Adihtya&theme=github-dark&variant=space-shooter"
-    alt="Space Shooter Contribution Animation"
+    src="./assets/aditya-jet.gif"
     width="100%"
+    alt="ADITYA - F15 Fighter Jet Animation"
   />
-</p>
-<!-- ======================== END HEADER ======================== -->
+
+  <br/>
+
+  <sub>
+    <b>ADITYA</b> // BUILT DIFFERENT. BUILT TO BREAK LIMITS.
+  </sub>
+
+</div>
+
+<!-- =============================================================== -->
 
 
 
