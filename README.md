@@ -1,203 +1,31 @@
 
-<!-- =============== ADITYA // NEURAL AFTERDARK =============== -->
-
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050510,35:180D35,70:432078,100:00D9FF&text=ADITYA&fontColor=FFFFFF&fontSize=95&fontAlignY=45&stroke=A855F7&strokeWidth=1&animation=fadeIn&desc=BEYOND%20THE%20KNOWN.&descSize=18&descAlignY=72&descColor=00D9FF"/>
+<!-- =========================================================
+     ADITYA CHAUDHARI | NEON HORIZON
+     Palette: Electric Violet · Neon Cyan · Royal Blue
+========================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:08051C,30:25105A,65:174A91,100:00D9FF&text=ADITYA%20CHAUDHARI&fontColor=FFFFFF&fontSize=52&fontAlignY=42&stroke=9D4EDD&strokeWidth=2&animation=fadeIn&desc=THINK%20BEYOND.%20BUILD%20WHAT'S%20NEXT.&descSize=15&descAlignY=68&descColor=67E8F9"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=800&color=A855F7&center=true&vCenter=true&width=850&height=55&lines=CURIOUS+MIND.+RELENTLESS+BUILDER.;I+BUILD+WHAT+I+CAN'T+STOP+THINKING+ABOUT.;EXPLORING+AI+%7C+QUANTUM+%7C+SOFTWARE;THINK+BEYOND.+EXPERIMENT.+CREATE.;ALWAYS+LEARNING.+ALWAYS+EVOLVING."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=950&height=50&lines=CURIOUS+MIND.+RELENTLESS+BUILDER.;I+BUILD+WHAT+I+CAN'T+STOP+THINKING+ABOUT.;EXPLORING+AI+%2F+QUANTUM+%2F+SOFTWARE;LEARN.+EXPERIMENT.+BREAK.+REBUILD.;TURNING+IMPOSSIBLE+IDEAS+INTO+ENGINEERING+CHALLENGES."/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-A855F7?style=for-the-badge&labelColor=080713"/>
-<img src="https://img.shields.io/badge/QUANTUM-COMPUTING-00D9FF?style=for-the-badge&labelColor=080713"/>
-<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-A855F7?style=for-the-badge&labelColor=080713"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-BD5CFF?style=for-the-badge&labelColor=100A29&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/QUANTUM%20COMPUTING-00D9FF?style=for-the-badge&labelColor=100A29"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-477BFF?style=for-the-badge&labelColor=100A29"/>
 
 <br/><br/>
 
-<h3>
-  <i>"I BUILD WHAT I CAN'T STOP THINKING ABOUT."</i>
-</h3>
+### <i>"I build what I can't stop thinking about."</i>
 
-<sub>
-  ENGINEERING STUDENT · EXPERIMENTER · FUTURE BUILDER
-</sub>
+<sub>COMPUTER SCIENCE STUDENT · EXPERIMENTER · FUTURE BUILDER</sub>
 
 <br/><br/>
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,50:00D9FF,100:050510"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:BD5CFF,35:477BFF,70:00D9FF,100:BD5CFF"/>
 
 </div>
-
-<!-- =========================================================== -->
-
-
-
-
-<h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
-<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/vih8rgxSGEEgc5HpDXwJ7p9x877uQmAVz5FIpVtFg2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhelp1ZFhCbmQz/WjFaRFY2Tm5wdWEy/YzVNRGgzWnpWcE5u/bDZaWFp4YW1SaE1Y/UnlkWGczY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTUM2ZVN1QzN5/eXBDVS8yMDAuZ2lm.gif">
-
-<p align="left"> 
-  <a href="https://twitter.com/adhitya" target="_blank"><img src="https://img.shields.io/twitter/follow/adhitya?logo=twitter&style=for-the-badge" alt="adhitya" /></a> 
-</p>
-
-<h3 align="left">👨‍💻 About Me:</h3>
-<p align="left">
-  I am a first-year <b>B.Tech CS & AI</b> undergrad passionate about solving complex problems and exploring the intersections of deep tech. When I'm not grinding competitive programming problems in <b>Python and C++</b>, you can find me competing in hackathons or designing brand strategies!
-</p>
-
-<div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td valign="top" align="center" width="50%">
-        <h4 align="center">🌱 Currently Exploring:</h4>
-        <ul style="display: inline-block; text-align: left;">
-          <li>Custom AI agent workflows & backend systems</li>
-          <li>Biological computing and neural simulations</li>
-          <li>Computer vision with OpenCV (building gesture controls!)</li>
-        </ul>
-      </td>
-      <td valign="top" align="center" width="50%">
-        <h4 align="center">⚡ Milestones & Roles:</h4>
-        <ul style="display: inline-block; text-align: left;">
-          <li>🥈 2nd Place @ ADYPU Ideathon (Team Soch4ard)</li>
-          <li>🥈 2nd Place @ Upstart Workshops 1 [TeamSkillBridge] </li>
-          <li>🥈 2nd Place @ Upstart Workshop 2 [Team Bombay Shaving Co.]</li>
-          <li>🌟 Finalist @ NST x Hacktoberfest</li>
-          <li>💼 Social Media Strategist & Manager</li>
-          <li>🏆 ICPC Participant</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">📫 Let's Connect:</h3>
-<p align="center">
-  <a href="mailto:invictableaditya@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-invictableaditya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/adihtya" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Aditya_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="center" style="color: #bb86fc;">🚀 Featured Project & Organization:</h3>
-
-<p align="center">
-  <a href="https://github.com/VasHexad" target="_blank" title="VasHexad - Open Source Organization">
-    <img src="https://github.com/VasHexad.png" alt="VasHexad Logo" width="80" style="border-radius: 12px; border: 2px solid #bb86fc;" />
-  </a>
-</p>
-
-<h2 align="center" style="margin-top: 0px;">
-  <a href="https://github.com/VasHexad" target="_blank" style="color: #d8b4fe; text-decoration: none;">VasHexad  🧠⚛️</a>
-</h2>
-
-<p align="center">
-  Co-founder and maintainer of an open-source technical collective built alongside Devdatta and Laksh. We are pioneering at the intersection of <b>Biological Computing, Artificial Intelligence, and Neural Simulations</b>.
-</p>
-
-<p align="center">
-  🔬 <b>Flagship Build: <a href="https://github.com/VasHexad" target="_blank" style="color: #bb86fc;">VasHexad_1.0</a></b><br>
-  A state-of-the-art 2D fruit-fly connectome simulator. The core engine mathematically models complex neural pathways using precise <i>Leaky Integrate-and-Fire (LIF) spiking dynamics</i>.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BioComputing-8A2BE2?style=for-the-badge" alt="BioComputing" />
-  <img src="https://img.shields.io/badge/Neural_Simulations-9370DB?style=for-the-badge" alt="Neural Simulations" />
-  <img src="https://img.shields.io/badge/Open_Source-BA55D3?style=for-the-badge" alt="Open Source" />
-</p>
-
-<br>
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="20" width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <h3>🌐 Connect with me:</h3>
-        <br>
-        <p align="center">
-          <a href="https://x.com/adihtya0to1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-        <a href="https://www.codechef.com/users/adihtya18" target="_blank" rel="noopener noreferrer" style="margin-right: 8px;">
-  <img src="https://api.iconify.design/simple-icons/codechef.svg?color=%235B4638" alt="Aditya Chaudhari on CodeChef" height="35" width="46" />
-</a>
- <a href="https://www.hackerrank.com/profile/invictableaditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://codeforces.com/profile/Adihtya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://leetcode.com/u/Adihtya18/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityachaudhari" height="35" width="46" /></a>&nbsp;&nbsp;
-          <a href="https://www.geeksforgeeks.org/profile/invictabldes2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9" height="35" width="46" /></a>
-        </p>
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <h3>💻 Languages and Tools:</h3>
-        <br>
-        <p align="center"> 
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/> </a>&nbsp;&nbsp;
-          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="46" height="46"/> </a>&nbsp;&nbsp;
-          <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="46"/> </a>&nbsp;&nbsp;
-          <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="46" height="46"/> </a>&nbsp;&nbsp;
-          <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="46" height="46"/> </a> 
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">📊 GitHub Stats & Streaks</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Adihtya&theme=merko&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Adihtya&show_icons=true&theme=merko&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adihtya&layout=compact&theme=merko&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
-
-<!-- END GITHUB STATS -->
-
-<h3 align="center">🏆 Competitive Programming Stats:</h3>
-<p align="center">
-  <a href="https://codeforces.com/profile/Adihtya" target="_blank">
-    <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Adihtya&theme=merko&bg_color=00000000" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/adihtya18" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-adihtya18-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
-  </a>
-  <a href="https://codeforces.com/profile/Adihtya" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Adihtya-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-  </a>
-  <a href="https://leetcode.com/u/Adihtya18/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Adihtya18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
