@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="https://imgs.search.brave.com/6FKYWXNV1PcaY2TpEwscgZT-TmWAbIwCdJkVmcLHRNo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vTTNTYVQwWTc0/SzBBQUFBZC9naG9z/dC1vZi10c3VzaGlt/YS5naWY.gif" alt="Landscape Banner" width="100%" />
-</div>
-<br>
+<p align="center">
+  <img width="800" height="451" alt="ezgif-70b31b2d835f862f" src="https://github.com/user-attachments/assets/18cd2cf4-b550-42f1-ba26-7af6d1cb51c3" />
+</p>
+
+
+
 
 <h1 align="center">👋 Hi there, I'm Aditya Chaudhari!</h1>
 
